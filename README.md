@@ -1,7 +1,7 @@
 <!--- Header -->
 <div id="header" align="center">
   <div id="logo">
-    <a href=""><img src="logo-no-background.png"/></a>
+    <a href=""><img width=100 height=100 src="logo-no-background.png"/></a>
    </div>
    <div id="title">
      <h1>Hi, My Name is Declan</h1>
@@ -38,14 +38,15 @@ My current tech stack includes:
   <img height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg"/>
   <img height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"/>
 
+  <br/>
+
+  <div id="git-stats">
+        My most used languages on Git are:
+        <br/>
+        <img src= https://github-readme-stats.vercel.app/api/top-langs?username=CoDeReD72&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40%22%20width=%22375%22%20%20alt=%22%22 />
   </div>
-</div>
+  </div>
 
-
-<div id="git-stats">
-      My most used languages on Git are:
-      <br/>
-      <img src= https://github-readme-stats.vercel.app/api/top-langs?username=CoDeReD72&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40%22%20width=%22375%22%20%20alt=%22%22 />
 </div>
 
 <!--- About me section -->
@@ -65,7 +66,7 @@ My current tech stack includes:
   </ul>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
 <h3> Let's Connect <h3>
        <a href="https://www.linkedin.com/in/declan-gallagher-932224210/" target=_blank>
          <img height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/linkedin/linkedin-original.svg"   alt="LinkedIn Badge"/
