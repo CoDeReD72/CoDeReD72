@@ -1,7 +1,7 @@
 <!--- Header -->
 <div id="header" align="center">
   <div id="logo">
-    <a href=""><img width=100 height=150 src="logo-color.png"/></a>
+    <a href=""><img width=150 height=150 src="logo-color.png"/></a>
    </div>
    <div id="title">
      <h1>Hi, My Name is Declan</h1>
