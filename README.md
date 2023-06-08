@@ -13,13 +13,17 @@
 <div align="left">
   <div align="center">
 
-My current tech stack includes:
+<p>Current technologies I have experience with are:</p>
 
   <img height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/arduino/arduino-original.svg"/>
   <img height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/bash/bash-original.svg"/>
   <img height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/c/c-original.svg"/>
+  <img height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/css3/css3-original.svg"/>
   <img height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/eleventy/eleventy-original.svg"/>
+  <img height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/git/git-original.svg"/>
   <img height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/github/github-original.svg  "/>
+  <img height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/haskell/haskell-original.svg"/>
+  <img height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/html5/html5-original.svg"/>
   <img height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/java/java-original.svg"/>
   <img height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/javascript/javascript-original.svg"/>
   <img height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/latex/latex-original.svg"/>
@@ -31,7 +35,6 @@ My current tech stack includes:
   <img height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/python/python-original.svg"/>
   <img height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/raspberrypi/raspberrypi-original.svg"/>
   <img height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/rust/rust-plain.svg"/>
-
   <img height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/ssh/ssh-original-wordmark.svg"/>
   <img height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/swift/swift-original.svg"/>
   <img height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/typescript/typescript-original.svg"/>
@@ -40,6 +43,10 @@ My current tech stack includes:
   <img height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg"/>
   <img height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg"/>
   <img height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"/>
+
+<p>And many more...</p>
+ <!--> <img height="25" width="25" src=""/> -->
+
 
   </div>
   <br/>
