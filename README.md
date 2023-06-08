@@ -45,7 +45,7 @@
   <img height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"/>
 
 <p>And many more...</p>
- <!--> <img height="25" width="25" src=""/> -->
+ <!-- <img height="25" width="25" src=""/> -->
 
 
   </div>
